@@ -1,0 +1,13 @@
+{
+  "name": "D3lab",
+  "homepage": "https://github.com/AutumnWu/D3lab",
+  "description": "bigdatalab9",
+  "main": "html",
+  "keywords": [
+    "d3"
+  ],
+  "authors": [
+    "Autumn"
+  ],
+  "license": "MIT"
+}
